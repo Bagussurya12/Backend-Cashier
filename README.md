@@ -1,4 +1,4 @@
-# Beckend-cashier
+# Backend-cashier
 Beckend For Cashier App
 ## Build Setup
 
